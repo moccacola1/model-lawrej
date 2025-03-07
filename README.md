@@ -24,7 +24,7 @@ Sebuah sistem API berbasis Node.js untuk mengintegrasikan dan menggunakan model-
 
 1. Klon repositori ini:
    ```bash
-   git clone https://github.com/username/ai-api-sistem-lokal.git
+   git clone https://github.com/username/ai-api-sistem-lokal.git](https://github.com/moccacola1/model-lawrej.git
    cd ai-api-sistem-lokal
    ```
 
